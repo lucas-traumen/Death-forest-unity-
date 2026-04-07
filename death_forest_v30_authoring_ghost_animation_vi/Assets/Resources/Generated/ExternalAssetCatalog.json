@@ -1,0 +1,15 @@
+{
+    "assets": [
+        {
+            "id": "df_external_ghost_ma",
+            "label": "DF_External_Ghost_Ma",
+            "resourcePath": "ExternalAssets/DF_External_Ghost_Ma",
+            "role": "Ghost",
+            "defaultScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    ]
+}
